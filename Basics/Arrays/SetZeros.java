@@ -1,4 +1,4 @@
-import java.io.*;
+package Arrays;
 class SetZeros {
 	
 	public static void main(String args[]) {
