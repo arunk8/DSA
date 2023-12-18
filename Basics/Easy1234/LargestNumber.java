@@ -1,4 +1,4 @@
-package Easy;
+package Easy1234;
 import java.util.*;
 public class LargestNumber {
  
