@@ -1,4 +1,4 @@
-package Easy1234;
+package Arrays;
 
 import java.io.*;
 //optimal solution
