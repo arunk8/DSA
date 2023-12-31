@@ -11,7 +11,7 @@ class SetZeros {
 		setZeroes(matrix);
 		System.out.println("\nfinal matrix \n");
 		printMatrix(matrix);
-		
+		System.out.println();
 	}
     //brute force approach
 //    public static void setZeroes(int[][] matrix) {
