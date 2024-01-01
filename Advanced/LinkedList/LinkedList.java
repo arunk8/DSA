@@ -1,4 +1,4 @@
-package asdfghj;
+package LinkedList;
 
 class Node{
     int data;
