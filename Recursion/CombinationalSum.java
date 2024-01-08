@@ -23,7 +23,8 @@ class Solution {
         return ans;
     }
 }
-public class CombinationalSum {
+
+public class 	 {
     public static void main(String[] args) {
         int arr[] = {2,3,6,7};
         int target = 7;
