@@ -1,5 +1,4 @@
 package Arrays;
-import java.util.*;
 
 public class PascalsTriangle {
 
@@ -18,7 +17,6 @@ public class PascalsTriangle {
         for (int c = 1; c <= n; c++) {
             System.out.print(nCr(n - 1, c - 1) + " ");
         }
-        
         System.out.println();
     }
 
