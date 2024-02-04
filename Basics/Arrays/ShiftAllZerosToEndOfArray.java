@@ -1,5 +1,4 @@
 package Arrays;
-import java.util.*;
 
 public class ShiftAllZerosToEndOfArray {
     public static int[] moveZeros(int n, int []a) {
