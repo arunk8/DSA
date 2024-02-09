@@ -40,7 +40,6 @@ public class NextPermutation {
         // Step 3: reverse the right half:
         List<Integer> sublist = A.subList(ind + 1, n);
         Collections.reverse(sublist);
-
         return A;
     }
 
