@@ -12,6 +12,7 @@ class Graph {
         adjacencyList = new LinkedList[v];
         for (int i = 0; i < v; ++i)
             adjacencyList[i] = new LinkedList();
+        
     }
 
     // Function to add an edge into the graph
