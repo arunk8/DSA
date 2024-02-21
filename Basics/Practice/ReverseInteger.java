@@ -1,5 +1,8 @@
+package Practice;
+
 public class ReverseInteger {
-    public int reverse(int x) {
+    
+	public static int reverse(int x) {
         long reversed = 0;
         while (x != 0) {
             reversed = reversed * 10 + x % 10;
@@ -9,5 +12,10 @@ public class ReverseInteger {
             return 0;
         }
         return (int) reversed;
+    }
+    
+    public static void main(String args[]) {
+    	int num = 12345678;
+    	System.out.println("Reversed number is "+reverse(num));
     }
 }
