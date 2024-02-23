@@ -10,7 +10,6 @@ public class RemoveWhiteSpaces{
 			if (!Character.isWhitespace(c))
 				output.append(c);
 		}
-		
 		return output.toString();
 	}
 	
