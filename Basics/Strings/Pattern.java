@@ -4,7 +4,7 @@ public class Pattern {
 
 	public static void main(String args[]) {
 		
-		int rows = 6;
+		int rows = 7;
 	     
 	     for (int i = 1; i <= rows; ++i) {     // for printing rows - 6
 	    	 // Print spaces before the stars
