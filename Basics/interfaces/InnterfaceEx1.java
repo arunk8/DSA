@@ -29,6 +29,12 @@ public class InnterfaceEx1 {
 			System.out.print(i + " ");
 		}
 		System.out.println();
+		
+		for(int i :values) {
+			System.out.print(i + " ");
+		}
+		System.out.println();
+		
 		v.forEach(i -> System.out.print(i + " ")); //lambda exp //consumer interface		
 		
 	}
