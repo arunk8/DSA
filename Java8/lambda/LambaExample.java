@@ -8,5 +8,4 @@ public class LambaExample {
 			System.out.println(i);
 		}
 	}
-	
 }
